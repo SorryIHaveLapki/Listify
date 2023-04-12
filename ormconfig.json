@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "postgres",
+  "password": "zuN49)2T",
+  "database": "Listify",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
